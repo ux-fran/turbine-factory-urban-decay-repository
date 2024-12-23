@@ -33,9 +33,10 @@ Stay updated on my creative journey and follow me on my other platforms:
 
 ## 🖼️ A Glimpse of the Project
 
-Here’s a preview of the Darius sculpt! (Images will make this section even more appealing!)
+Here’s a preview of the Turbine Factory!
 
-![Project Preview](./images/darius-preview.jpg)
+![image](https://github.com/user-attachments/assets/39cc631d-13d0-4a23-b4ee-15d736fc16bd)
+
 
 ---
 
