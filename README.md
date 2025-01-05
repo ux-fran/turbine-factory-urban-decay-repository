@@ -4,6 +4,14 @@ This repository documents the journey of creating the **Turbine Factory** as par
 
 ---
 
+## 🖼️ A Glimpse of the Project
+
+Here’s a preview of the Turbine Factory!
+
+![image](https://github.com/user-attachments/assets/39cc631d-13d0-4a23-b4ee-15d736fc16bd)
+
+---
+
 ## 📌 What's Inside
 
 - **Project Progress**:
@@ -28,15 +36,6 @@ Stay updated on my creative journey and follow me on my other platforms:
 - **Blog**: [Fran43CG](https://www.fran43cg.com)  
 - **YouTube**: [Fran43CG Channel](https://www.youtube.com/@Fran43CG)  
 - **Instagram**: [@Fran43CG](https://www.instagram.com/fran43cg/)  
-
----
-
-## 🖼️ A Glimpse of the Project
-
-Here’s a preview of the Turbine Factory!
-
-![image](https://github.com/user-attachments/assets/39cc631d-13d0-4a23-b4ee-15d736fc16bd)
-
 
 ---
 
