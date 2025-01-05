@@ -7,7 +7,7 @@ This repository documents the journey of creating the **Turbine Factory** as par
 ## 📌 What's Inside
 
 - **Project Progress**:
-  - Track my progress with the [Kanban Board](https://github.com/ux-fran/darius-sculpt-repo/projects/1) or explore the [Backlog](https://github.com/ux-fran/darius-sculpt-repo/issues) for detailed steps.
+  - Track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/67/views/2)) or explore the [Backlog](https://github.com/users/ux-fran/projects/67/views/1) for detailed steps.
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
