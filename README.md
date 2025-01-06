@@ -23,6 +23,16 @@ Here’s a preview of the Turbine Factory!
 
 ---
 
+### Credits
+- **Special Credit to Max Hay**: The insights and techniques shared by Max Hay were instrumental in bringing this turbine scene to life. Visit his website at [Max Hay](https://maxhayart.com).
+
+---
+
+### Final Notes
+The **Turbine Scene Project** was a rewarding learning experience in 3D modeling, lighting, and texturing. Special thanks to Max Hay for his inspiration and guidance. The project is now complete, showcasing industrial design elements within a dynamic, atmospheric environment.
+
+---
+
 ## 🌐 Explore More
 
 Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
