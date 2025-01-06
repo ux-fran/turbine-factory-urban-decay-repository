@@ -18,7 +18,7 @@ This repository (a.k.a. "project folder")  documents the journey of creating the
    - [Max Hay's Beautiful Environments Course](https://maxhayart.com)
    - Learning about the [Boolean Modifier by Ryan King Art](https://www.youtube.com/watch?v=CHqH5oz0DvQ)
    - Learning about the [Spin Tool by Olav3D](https://youtu.be/4GZc6_Y-DY8)
-- **My Blog post**: [4 Things I Learned from Max Hay: Creating the Turbine Scene](https://www.fran43cg.com/blog/2024/06/19/4-things-i-learned-from-max-hay-creating-the-turbine-scene/)
+- **My blog post**: [4 Things I Learned from Max Hay: Creating the Turbine Scene](https://www.fran43cg.com/blog/2024/06/19/4-things-i-learned-from-max-hay-creating-the-turbine-scene/)
 - **My YouTube Video**: [Building my first Cyberpunk City](https://www.youtube.com/watch?v=MR7xzW8NLeM)
 
 ---
