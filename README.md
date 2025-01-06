@@ -2,7 +2,7 @@
 
 🔙 Back to all my Blender projects Wiki: [Fran's blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)
 
-Project status: Finished 🎉
+Project status: Finished 🎉\
 Repository: [turbine-factory-urban-decay-repository](https://github.com/ux-fran/turbine-factory-urban-decay-repository) (This page 😊)\
 Project Progress: [Turbine Factory progress](https://github.com/users/ux-fran/projects/67)
 
