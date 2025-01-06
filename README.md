@@ -2,11 +2,9 @@
 
 🔙 Back to all my Blender projects Wiki: [Fran's blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)
 
-Project status: Finished 🎉\
-Repository: [turbine-factory-urban-decay-repository](https://github.com/ux-fran/turbine-factory-urban-decay-repository) (This page 😊)\
-Project Progress: [Turbine Factory progress](https://github.com/users/ux-fran/projects/67)
-
-This repository (a.k.a. "project folder") documents the progress of creating the Emilia Sculpt as part of my Blender learning adventure. 🎨✨
+_Project status: Finished_ 🎉\
+_Repository_: [turbine-factory-urban-decay-repository](https://github.com/ux-fran/turbine-factory-urban-decay-repository) (This page 😊)\
+_Project Progress_: [Turbine Factory progress](https://github.com/users/ux-fran/projects/67)
 
 This repository (a.k.a. "project folder")  documents the journey of creating the **Turbine Factory** as part of my Blender learning adventure. 🎨✨ Here, you'll find everything related to this project—from progress updates to resources and the final render!
 
