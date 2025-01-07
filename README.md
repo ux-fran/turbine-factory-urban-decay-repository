@@ -1,60 +1,73 @@
-# Welcome to the Turbine Factory Repository!
+# Welcome to the Turbine Factory Repository! 🛠️✨
 
-🔙 Back to all my Blender projects Wiki: [Fran's blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)
+🔙 _Back to my Blender projects main hub_: [Fran's Blender Projects Main Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)
 
-_Project status: Finished_ 🎉\
-_Repository_: [turbine-factory-urban-decay-repository](https://github.com/ux-fran/turbine-factory-urban-decay-repository) (This page 😊)\
-_Project Progress_: [Turbine Factory progress](https://github.com/users/ux-fran/projects/67)
+_Project Status_: **Finished** 🎉  
+_Repository_: **[Turbine Factory Urban Decay](https://github.com/ux-fran/turbine-factory-urban-decay-repository)**  
+_Project Progress_: **[Turbine Factory Progress](https://github.com/users/ux-fran/projects/67)**  
 
-This repository (a.k.a. "project folder")  documents the journey of creating the **Turbine Factory** as part of my Blender learning adventure. 🎨✨ Here, you'll find everything related to this project—from progress updates to resources and the final render!
+Welcome to my **Turbine Factory Repository!** This project documents my journey of creating an industrial **abandoned turbine scene**, inspired by Max Hay’s beautiful environment designs. This repository tracks my progress, resources, and key learnings—everything from initial modeling to final render!
 
 ---
 
-## 🖼️ Render
+## 🖼️ Final Render
 
-Here’s the final render of the Turbine Factory!
+Here’s the final render of the **Turbine Factory** scene!
 
 ![image](https://github.com/user-attachments/assets/39cc631d-13d0-4a23-b4ee-15d736fc16bd)
 
 ---
 
-### Project Overview
-- **Goal**: To design a abandoned turbine scene with industrial elements, focusing on lighting, materials, and composition.
-- **Art Style**: Realistic industrial design with strong attention to detail and lighting.
-- **Tools Used**: Blender 3D for modeling and scene creation, and Photoshop for texture enhancement and post-processing.
-- **Resources used**:
-   - [Max Hay's Beautiful Environments Course](https://maxhayart.com)
-   - Learning about the [Boolean Modifier by Ryan King Art](https://www.youtube.com/watch?v=CHqH5oz0DvQ)
-   - Learning about the [Spin Tool by Olav3D](https://youtu.be/4GZc6_Y-DY8)
-- **My blog post**: [4 Things I Learned from Max Hay: Creating the Turbine Scene](https://www.fran43cg.com/blog/2024/06/19/4-things-i-learned-from-max-hay-creating-the-turbine-scene/)
-- **My YouTube Video**: [Building my first Cyberpunk City](https://www.youtube.com/watch?v=MR7xzW8NLeM)
+## 🧩 Project Overview
+
+- **Goal**: To design an abandoned turbine scene with industrial elements, focusing on lighting, materials, and composition.
+- **Art Style**: Realistic industrial design with strong attention to detail and atmospheric lighting.
+- **Tools Used**: Blender for modeling and scene creation, Photoshop for texture enhancement and post-processing.
+- **Resources Used**:
+  - [Max Hay's Beautiful Environments Course](https://maxhayart.com)
+  - Learning about the [Boolean Modifier by Ryan King Art](https://www.youtube.com/watch?v=CHqH5oz0DvQ)
+  - Learning about the [Spin Tool by Olav3D](https://youtu.be/4GZc6_Y-DY8)
+- **Related Blog Post**: [4 Things I Learned from Max Hay: Creating the Turbine Scene](https://www.fran43cg.com/blog/2024/06/19/4-things-i-learned-from-max-hay-creating-the-turbine-scene/)
+- **Related YouTube Video**: [Building My First Cyberpunk City](https://www.youtube.com/watch?v=MR7xzW8NLeM)
 
 ---
 
-## 📌 What's Inside This Repository
+## 📌 What’s Inside This Repository
 
 - **Project Progress**:
-  - Explore the [Backlog](https://github.com/users/ux-fran/projects/67) for detailed steps or track my progress with the [Kanban Board (a.k.a. ToDo list)](https://github.com/users/ux-fran/projects/67/views/2).
+  - Explore the [Backlog](https://github.com/users/ux-fran/projects/67) for detailed tasks or track my progress on the [Kanban Board (a.k.a. ToDo List)](https://github.com/users/ux-fran/projects/67/views/2).
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
-  - Access any related files, references, or additional materials.
+  - Access related files, references, or additional materials used during the project.
 
 ---
 
-### Credits
-- **Special Credit to Max Hay**: The insights and techniques shared by Max Hay were instrumental in bringing this turbine scene to life. Visit his website at [Max Hay](https://maxhayart.com).
+## 💡 Key Learnings
+
+This project provided a fantastic opportunity to:
+
+- Improve my understanding of **lighting and texturing** in realistic environments.
+- Explore **industrial design elements** and how to make scenes feel immersive.
+- Learn new techniques like using the **Boolean Modifier** and **Spin Tool** to speed up the modeling process.
 
 ---
 
-### Final Notes
-The **Turbine Scene Project** was a rewarding learning experience in 3D modeling, lighting, and texturing. Special thanks to Max Hay for his inspiration and guidance. The project is now complete, showcasing industrial design elements within a dynamic, atmospheric environment.
+## 🙏 Credits
+
+- **Special Credit to Max Hay**: The insights and techniques shared by Max Hay were instrumental in bringing this turbine scene to life. Visit his website at [Max Hay Art](https://maxhayart.com).
+
+---
+
+## 📝 Final Notes
+
+The **Turbine Factory Project** was a rewarding learning experience, showcasing industrial design elements within a dynamic, atmospheric environment. I’m proud of the progress made and the lessons learned along the way.
 
 ---
 
 ## 🌐 Explore More
 
-Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-repository/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
+Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
 
 ---
 
@@ -74,4 +87,4 @@ Feel free to explore, share feedback, or suggest ideas. While this repository is
 
 ---
 
-### Thank you for visiting the Turbine Factory repository! 🎉
+### Thank you for visiting the Turbine Factory Repository! 🎉
