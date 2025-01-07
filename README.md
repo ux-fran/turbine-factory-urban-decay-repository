@@ -67,7 +67,7 @@ The **Turbine Factory Project** was a rewarding learning experience, showcasing 
 
 ## 🌐 Explore More
 
-Looking for a full overview of all my Blender projects? Head over to the **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-main-hub-repo/wiki)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
+Looking for a full overview of all my Blender projects? Head over to the **[Blender Projects Main Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)**—the central hub where I showcase all my projects and share insights about my Blender journey. 🛠️✨
 
 ---
 
