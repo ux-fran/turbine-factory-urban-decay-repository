@@ -39,7 +39,7 @@ Here’s the final render of the **Turbine Factory** scene!
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
-  - Access related files, references, or additional materials used during the project.
+  - Access to related files, references, or additional materials used during the project if and when available.
 
 ---
 
