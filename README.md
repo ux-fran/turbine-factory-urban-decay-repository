@@ -8,6 +8,9 @@ _Project Progress_: **[Turbine Factory Progress](https://github.com/users/ux-fra
 
 Welcome to my **Turbine Factory Repository!** This project documents my journey of creating an industrial **abandoned turbine scene**, inspired by Max Hay’s beautiful environment designs. This repository tracks my progress, resources, and key learnings—everything from initial modeling to final render!
 
+## ❓ Questions?
+If you have any questions about this project, feel free to ask them in the [Q&A Discussion](https://github.com/ux-fran/turbine-factory-urban-decay-repository/discussions)! 💬
+
 ---
 
 ## 🖼️ Final Render
